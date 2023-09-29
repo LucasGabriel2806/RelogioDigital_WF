@@ -1,0 +1,17 @@
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\bin\Debug\net6.0-windows\RelogioDigital_WF.exe
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\bin\Debug\net6.0-windows\RelogioDigital_WF.deps.json
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\bin\Debug\net6.0-windows\RelogioDigital_WF.runtimeconfig.json
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\bin\Debug\net6.0-windows\RelogioDigital_WF.dll
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\bin\Debug\net6.0-windows\RelogioDigital_WF.pdb
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.csproj.AssemblyReference.cache
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.Form1.resources
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.csproj.GenerateResource.cache
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.AssemblyInfoInputs.cache
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.AssemblyInfo.cs
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.dll
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\refint\RelogioDigital_WF.dll
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.pdb
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\RelogioDigital_WF.genruntimeconfig.cache
+C:\Dev\C#\Windows Forms\RelogioDigital_WF\obj\Debug\net6.0-windows\ref\RelogioDigital_WF.dll
